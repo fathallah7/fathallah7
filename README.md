@@ -20,10 +20,13 @@
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://t.me/U7P4L-IN"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/th3_u7p4l"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/UtpalCoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
+  <a href="https://www.linkedin.com/in/U7P4L-IN"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/anon___stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://t.me/U7P4L-IN"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/anon___stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-</a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
