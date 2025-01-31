@@ -1,4 +1,4 @@
-<img width=100% title="ANONYMOUS U7P4L" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="ANONYMOUS U7P4L" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&Abdullah-Fathallah-&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
@@ -17,33 +17,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
 
-```go
-package main
-
-import "fmt"
-
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
-}
-
-func main() {
-  var me = new(Person)
-  
-  me.name     = "U7P4L 1N"
-  me.username = "U7P4L-IN"
-  me.age      = "20"
-  me.job      = "AI developer | Web developer"
-  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
-  
-  fmt.Println(me)
-}
-```
-<!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
