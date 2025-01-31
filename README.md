@@ -5,9 +5,9 @@
     <td>
       <br>
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Iam+Abdullah+Fathallah;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=fathallah7&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="fathallah7"/>
+<!--      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=fathallah7&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="fathallah7"/> -->
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=fathallah7&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
