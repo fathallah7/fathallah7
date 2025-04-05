@@ -5,13 +5,8 @@
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
 
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>  Connect With Me
 
-<p align="center">
-<a href="#"><img title="Telegram" src="#"></a><a href="#"><img title="GMAIL" src="#"></a><a href="#"><img alt="Discord" title="Discord" src="#"/></a><a href="#"><img alt="Youtube" title="Youtube" src="#"/></a></br>
-
-<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="#"></a><a href="#"><img title="Facebook" src="#"></a><a href="#"><img title="Instagram" src="#"></a><a align="center"><a href="#" target="_blank"><img src="#">
-</a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
