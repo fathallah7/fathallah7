@@ -7,7 +7,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://avatars.githubusercontent.com/u/114351000?s=400&u=5c905d0ad05fc97267943bcb2d6e4bafea4fe0f6&v=4" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
