@@ -26,10 +26,7 @@ I-am-vishalmaurya@github
 
 ## 🛠️ My Favorite Tools
 
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)  
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) t![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)  
   ![Laravel](https://img.shields.io/badge/Laravel-EF4135?logo=laravel&logoColor=white)  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
