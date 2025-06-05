@@ -35,10 +35,6 @@ fathallah7@github
 <h2 align="center">Fathallah's Stats</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=fathallah7&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
