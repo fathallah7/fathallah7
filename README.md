@@ -25,7 +25,14 @@ fathallah7@github
 
 ## GitHub Stats
 
-<h2 align="center">Vishal's Stats</h2>
+<h2 align="center">Fathallah's Stars & Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
+</p>
+
+<h2 align="center">Fathallah's Stats</h2>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=fathallah7&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
@@ -39,13 +46,6 @@ fathallah7@github
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathallah7&theme=algolia" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">Vishal's Stars & Top Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
-</p>
 
 
 ---
