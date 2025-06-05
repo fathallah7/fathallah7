@@ -41,11 +41,10 @@ fathallah7@github
 
 <h2 align="center">Vishal's Stars & Top Languages</h2>
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
 </p>
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" />
-</p>
+
 
 ---
