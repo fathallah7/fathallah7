@@ -24,11 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
 </p>
 
+<!--
 <h2 align="center">Fathallah's Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathallah7&theme=algolia" alt="GitHub Streak" />
 </p>
+-->
 
-
-
----
