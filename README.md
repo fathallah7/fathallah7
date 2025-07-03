@@ -31,49 +31,6 @@
 </p>
 -->
 
-<h1 align="center">Hi there 👋, I'm Abdullah</h1>
-
-<p align="center">
-  🚀 Full-Stack Developer in progress | 🎨 Graphic Designer | 🌐 Networking Student
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm currently a university student specializing in **Networking**  
-- 🧠 Learning **Laravel**, **Tailwind CSS**, and aiming for **Full-Stack Web & Mobile**
-- 💼 Working on real-world projects to build my freelance portfolio
-- 🎯 Goal: Become a strong **Backend Developer** and master tools like **Vue.js**, **Flutter**, and **DevOps**
-
----
-### 🛠️ Languages & Tools
-
-#### 🔙 Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-</p>
-
-#### 🌐 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS"/>
-</p>
-
-#### 🔗 APIs & Tools
-<p>
-  <img src="https://img.shields.io/badge/RESTful_API-FF6F00?style=flat&logo=api&logoColor=white" height="25" alt="RESTful API"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman"/>
-</p>
-
-
 ---
 
 ### 📫 Contact Me
@@ -84,11 +41,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
