@@ -35,9 +35,8 @@
 
 ### 📫 Contact Me
 
-- Email: **your.email@example.com**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Email: **abdullahxoff@gmail.com**
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/fathallah7)
 
 ---
 
