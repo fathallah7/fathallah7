@@ -46,10 +46,14 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fathallah7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=fathallah7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ## GitHub Stats
-
-<h2 align="center">Fathallah's Stars & Top Languages</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
