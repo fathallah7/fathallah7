@@ -19,6 +19,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap"  />
