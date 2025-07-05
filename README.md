@@ -10,23 +10,23 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="css"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="html"  />
 </div>
 
 ###
