@@ -8,7 +8,6 @@
 <hr>
 
 ###
-## 🛠️ My Programming Languages - Frameworks & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel"  />
   <img width="12" />
