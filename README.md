@@ -21,9 +21,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html"  />
+  <img src="https://skillicons.dev/icons?i=restfulapi" height="60" alt="restfulapi"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind"  />
   <img width="12" />
