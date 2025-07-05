@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react-native" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
