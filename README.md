@@ -65,10 +65,3 @@
 
 ---
 
-### 📫 Contact Me
-
-- Email: **abdullahxoff@gmail.com**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/fathallah7)
-
----
-
