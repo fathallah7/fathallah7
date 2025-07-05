@@ -24,9 +24,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="css"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="html"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html"  />
 </div>
 
 ###
