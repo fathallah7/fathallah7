@@ -21,10 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=api" height="60" alt="api"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap"  />
@@ -32,6 +28,12 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github"  />
 </div>
 
 ###
