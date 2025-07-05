@@ -44,16 +44,15 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-###
 
 ###
+
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fathallah7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
