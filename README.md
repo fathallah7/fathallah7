@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=restfulapi" height="60" alt="restfulapi"  />
+  <img src="https://skillicons.dev/icons?i=api" height="60" alt="api"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind"  />
   <img width="12" />
