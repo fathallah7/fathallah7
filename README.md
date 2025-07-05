@@ -32,8 +32,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github"  />
 </div>
 
 ###
