@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman"  />
   <img width="12" />
