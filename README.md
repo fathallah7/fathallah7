@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
