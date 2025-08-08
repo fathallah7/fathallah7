@@ -14,9 +14,29 @@ Full Stack Developer building web & mobile apps
 I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-performance web and mobile applications. With expertise in **Laravel**, **Vue.js**, and **React Native**, I build solid APIs and responsive interfaces that offer smooth user experiences.
 
 <div align="center" style="margin: 2rem 0;">
-  <a href="https://linkedin.com/in/fathallah7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=00D4FF" height="30" alt="LinkedIn" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00D4FF);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://discord.com/users/fathallah" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&color=8B5CF6" height="30" alt="Discord" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #8B5CF6);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://dev.to/your-devto" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&color=00D4FF" height="30" alt="Dev.to" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00D4FF);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://linkedin.com/in/fathallah7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
+         height="30" alt="LinkedIn" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #0A66C2);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="mailto:abdullahxoff@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" 
+         height="30" alt="Gmail" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #EA4335);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://discord.com/users/fathallah" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" 
+         height="30" alt="Discord" 
+         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #5865F2);" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </div>
 
 ---
