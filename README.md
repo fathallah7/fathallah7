@@ -21,15 +21,13 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
          onmouseover="this.style.transform='scale(1.1)'" 
          onmouseout="this.style.transform='scale(1)'"/>
   </a>
-
-  <a href="mailto:abdullahxoff@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" 
-         height="30" alt="Gmail" 
-         style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #EA4335);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahxoff@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" 
+       height="30" alt="Gmail"
+       style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #EA4335);"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
   <a href="https://discord.com/users/fathallah" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" 
          height="30" alt="Discord" 
