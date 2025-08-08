@@ -51,11 +51,8 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
 
 ---
 
-## Code Metrics
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 2rem 0; background: linear-gradient(135deg, #2b2b2b 0%, #404040 50%, #3a3a3a 100%); padding: 1rem; border-radius: 10px; box-shadow: 0 0 15px rgb(255,255,255);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=6&theme=vision-friendly-dark&layout=compact&border_radius=10&hide_border=true" alt="Top Languages" style="max-width: 40%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Code%20Journey&theme=vision-friendly-dark&border_radius=10&hide_border=true" alt="GitHub Stats" style="max-width: 40%;" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathallah7&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=fathallah7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</p>
