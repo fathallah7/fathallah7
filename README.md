@@ -7,21 +7,19 @@
 ---
 
 
-
-## About Me
-
 <h3 align="center">
 Full Stack Developer building web & mobile apps 
 </h3>
 
 I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-performance web and mobile applications. With expertise in **Laravel**, **Vue.js**, and **React Native**, I build solid APIs and responsive interfaces that offer smooth user experiences.
 
-
+<div align="center" style="margin: 2rem 0;">
+  <a href="https://linkedin.com/in/fathallah7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=00D4FF" height="30" alt="LinkedIn" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00D4FF);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://discord.com/users/fathallah" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&color=8B5CF6" height="30" alt="Discord" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #8B5CF6);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://dev.to/your-devto" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&color=00D4FF" height="30" alt="Dev.to" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00D4FF);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
+</div>
 
 ---
-
-## My Tech Arsenal
-
 
 <div align="center" style="margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" style="filter: drop-shadow(0 0 5px #FF2D20);" />
@@ -36,17 +34,6 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" style="filter: drop-shadow(0 0 5px #E34F26);" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" style="filter: drop-shadow(0 0 5px #FF6C37);" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" style="filter: drop-shadow(0 0 5px #F05032);" />
-</div>
-
----
-
-
-## Connect with Me
-
-<div align="center" style="margin: 2rem 0;">
-  <a href="https://linkedin.com/in/fathallah7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=00D4FF" height="30" alt="LinkedIn" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00D4FF);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://discord.com/users/fathallah" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&color=8B5CF6" height="30" alt="Discord" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #8B5CF6);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://dev.to/your-devto" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&color=00D4FF" height="30" alt="Dev.to" style="margin: 0.3rem; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00D4FF);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
 </div>
 
 ---
