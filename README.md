@@ -42,7 +42,7 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
 <div align="center" style="margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" style="filter: drop-shadow(0 0 5px #FF2D20);" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" style="filter: drop-shadow(0 0 5px #787CB5);" />
-  <img src="https://skillicons.dev/icons?i=nodedotjs" height="50" alt="Node.js" style="filter: drop-shadow(0 0 5px #42B883);" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" style="filter: drop-shadow(0 0 5px #42B883);" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express" style="filter: drop-shadow(0 0 5px #42B883);" />
   <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" style="filter: drop-shadow(0 0 5px #42B883);" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 5px #F7DF1E);" />
