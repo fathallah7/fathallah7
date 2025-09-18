@@ -8,10 +8,10 @@
 
 
 <h3 align="center">
-Full Stack Developer building web & mobile apps 
+Full Stack Developer
 </h3>
 
-I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-performance web and mobile applications. With expertise in **Laravel**, **Vue.js**, and **React Native**, I build solid APIs and responsive interfaces that offer smooth user experiences.
+I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-performance web applications. With expertise in **Laravel**, **Node.js & Express**, **Vue.js**, I build solid APIs and responsive interfaces that offer smooth user experiences.
 
 <div align="center" style="margin: 2rem 0;">
   <a href="https://linkedin.com/in/fathallah7" target="_blank">
@@ -42,10 +42,12 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
 <div align="center" style="margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" style="filter: drop-shadow(0 0 5px #FF2D20);" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" style="filter: drop-shadow(0 0 5px #787CB5);" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 5px #F7DF1E);" />
+  <img src="https://skillicons.dev/icons?i=node" height="50" alt="Node.js" style="filter: drop-shadow(0 0 5px #42B883);" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express" style="filter: drop-shadow(0 0 5px #42B883);" />
   <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" style="filter: drop-shadow(0 0 5px #42B883);" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" style="filter: drop-shadow(0 0 5px #61DAFB);" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="filter: drop-shadow(0 0 5px #F7DF1E);" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" style="filter: drop-shadow(0 0 5px #00758F);" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb" style="filter: drop-shadow(0 0 5px #00758F);" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" style="filter: drop-shadow(0 0 5px #38B2AC);" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" style="filter: drop-shadow(0 0 5px #7952B3);" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" style="filter: drop-shadow(0 0 5px #264DE4);" />
