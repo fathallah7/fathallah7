@@ -1,14 +1,14 @@
 <img width=100% title="Fathallah" alt="Fathallah" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdullah-Fathallah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
----
 
 
 <div align="center">
 
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Full Stack Developer
 
-I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-performance web applications. With expertise in **Laravel**, **Node.js & Express**, **Vue.js**, I build solid APIs and responsive interfaces that offer smooth user experiences.
+I am a **Full Stack Developer** dedicated to crafting scalable, high-performance web applications. With expertise in **(PHP) Laravel**, **(C#) .NET** & **Vue.js**, I build solid APIs and responsive interfaces that offer smooth user experiences.
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0CA3F7&width=435&lines=(PHP)+Laravel+%2F+(C%23)+.NET+%2F+Vue.js" alt="fathallah7" />
@@ -27,8 +27,7 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
   </a>
 </div>
 
----
-
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Technical Proficiencies
 
@@ -53,7 +52,7 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
 
 </div>
 
----
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### GitHub Overview
 
@@ -71,8 +70,8 @@ I am a **Full Stack Software Engineer** dedicated to crafting scalable, high-per
 </div>
 
 
-  <img height="190" src="https://github-profile-trophy.vercel.app/?username=fathallah&theme=algolia" />
-  
----
+  <!-- <img height="190" src="https://github-profile-trophy.vercel.app/?username=fathallah&theme=algolia" /> -->
+
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img width=100% title="Fathallah" alt="Fathallah" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&section=footer"/>
