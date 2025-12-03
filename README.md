@@ -3,7 +3,8 @@
 <h1 align="center">Hey there 👋, I'm Abdullah Fathallah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&width=700&repeat=true&lines=Full-Stack+Developer+ - +PHP+Laravel+%7C+C%23+ASP.NET+%7C+Vue.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4300&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+PHP+Laravel+%7C+C%23+ASP.NET+%7C+Vue.js" alt="Typing SVG" />
+
 </p>
 
 ---
@@ -50,7 +51,7 @@ I am a **Full Stack Developer** dedicated to crafting scalable, high-performance
   <a href="mailto:abdullahxoff@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
- <a href="https://linkedin.com/in/fathallah7" target="_blank">
+ <a href="https://www.facebook.com/abdullahXfathallah" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%230A66C2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
 </p>
