@@ -20,15 +20,15 @@ I am a **Backend Developer**. I work extensively with **PHP (Laravel)** and **No
 <div align="" style="display: flex; flex-wrap: wrap; gap: 0.7rem; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP"  />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=nest" height="50" alt="nest" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express" />
   <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb"  />
   <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"  />
