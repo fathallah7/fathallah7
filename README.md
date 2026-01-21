@@ -21,7 +21,7 @@ focusing on high-performance APIs and scalable architecture.
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="40%">
       <h3>Backend Engineering</h3>
       <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nest,express,typescript&perline=3" />
       <br><br>
@@ -33,22 +33,20 @@ focusing on high-performance APIs and scalable architecture.
     </td>
     <td align="center" width="33%">
       <h3>Data & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,linux,nginx&perline=3" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux&perline=2" />
       <br><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
     <td align="center" width="33%">
       <h3>Tools & Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=vue,tailwind,git,github,postman,vscode&perline=3" />
+      <img src="https://skillicons.dev/icons?i=vue,tailwind,git,github&perline=2" />
       <br><br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
