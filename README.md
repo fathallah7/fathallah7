@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&repeat=false&color=&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+|+Laravel+%26+NestJS;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&repeat=false&color=&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+|+PHP+Laravel+%26+Go;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,8 +11,8 @@
 
 ## About Me
 
-I am a **Backend Engineer** Specialized in **PHP (Laravel)** and **Node.js (NestJS)**.
-focusing on high-performance APIs and scalable architecture.
+I am a **Backend Engineer** specializing in **PHP (Laravel)** and **Go**,   
+focused on building **high-performance APIs** and **scalable backend architectures**.
 
 ---
 
@@ -23,26 +23,28 @@ focusing on high-performance APIs and scalable architecture.
   <tr>
     <td align="center" width="40%">
       <h3>Backend Engineering</h3>
-      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nest,express,typescript&perline=3" />
-      <br><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,go&perline=4" />
+  <br><br>
+
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <br/>
     </td>
     <td align="center" width="33%">
       <h3>Data & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux&perline=2" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux&perline=4" />
       <br><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
     <td align="center" width="33%">
       <h3>Tools & Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=vue,tailwind,git,github&perline=2" />
+      <img src="https://skillicons.dev/icons?i=vue,tailwind,git,github&perline=4" />
       <br><br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
