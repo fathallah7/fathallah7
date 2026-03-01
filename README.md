@@ -21,7 +21,7 @@
   <a href="https://abdullah.top" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/fathallah7" target="_blank">
+  <a href="https://linkedin.com/in/abdullahfathallah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="mailto:abdullahxoff@gmail.com" target="_blank">
