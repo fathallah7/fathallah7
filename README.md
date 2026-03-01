@@ -9,65 +9,26 @@
 
 ---
 
-## About Me
-
-I am a **Backend Engineer** specializing in **PHP (Laravel)** and **Go**,   
-focused on building **high-performance APIs** and **scalable backend architectures**.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=go,php,laravel,postgres,mysql,docker,linux,vue,tailwind,git&perline=10" />
+</div>
 
 ---
 
 
-##  Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
 
-<table align="center">
-  <tr>
-    <td align="center" width="40%">
-      <h3>Backend Engineering</h3>
-      <img src="https://skillicons.dev/icons?i=php,laravel,go&perline=4" />
-  <br><br>
-
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <br/>
-    </td>
-    <td align="center" width="33%">
-      <h3>Data & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux&perline=4" />
-      <br><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </td>
-    <td align="center" width="33%">
-      <h3>Tools & Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=vue,tailwind,git,github&perline=4" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-
-## Connect with Me 🌐
-
-<p align="left">
+<p align="center">
   <a href="https://abdullah.top" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio -%2d35865F2.svg?style=for-the-badge&logo=portfolio&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
   </a>
- <a href="https://linkedin.com/in/fathallah7" target="_blank">
+  <a href="https://linkedin.com/in/fathallah7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="mailto:abdullahxoff@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
- <a href="https://www.facebook.com/abdullahXfathallah" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%230A66C2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
+  <a href="https://www.facebook.com/abdullahXfathallah" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
 </p>
 
