@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nuxt,vue,js,tailwind,&perline=4" />
+<img src="https://skillicons.dev/icons?i=nuxt,vue,js,tailwind&perline=4" />
 
 </div>
 
