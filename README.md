@@ -3,21 +3,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&repeat=false&color=&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+|+GO+%26+PHP+Laravel;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&repeat=false&color=&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+|+Java+Spring+Boot+%26+PHP+Laravel;" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=go,laravel,postgres,mysql,redis,docker,kubernetes,linux,git,github&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,redis,docker,kubernetes,linux,nuxt,vue,git,github&perline=7" />
 </div>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nuxt,vue,js,tailwind&perline=4" />
-
-</div>
 
 ---
 
